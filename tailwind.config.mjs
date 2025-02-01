@@ -9,8 +9,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      DarkGray:'rgb(68, 68, 68)',
+      Vermilion:'rgb(255, 56, 17)',
+
       },
     },
   },
