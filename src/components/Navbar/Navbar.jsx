@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <>
   <li>
-    <Link href={''} className='navLink'>Home</Link>
+    <Link href={'/'} className='navLink'>Home</Link>
   </li>
   <li>
     <Link href={''} className='navLink'> About </Link>
@@ -79,7 +79,7 @@ export default function Navbar() {
         </li>
       </ul>
     </div>
-  <Link href={''} className='text-Vermilion border-[1px] border-Vermilion py-3 px-5 rounded-md'>Appointment</Link>
+  <Link href={''} className='btnStyle'>Appointment</Link>
   </div>
 </div>
   )

@@ -6,4 +6,7 @@
   .navLink{
     @apply text-DarkGray text-lg font-semibold
   }
+  .btnStyle{
+    @apply text-Vermilion font-semibold text-lg border-[1px] border-Vermilion py-3 px-5 rounded-md
+  }
 }
