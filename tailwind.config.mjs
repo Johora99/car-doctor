@@ -11,6 +11,8 @@ export default {
       colors: {
       DarkGray:'rgb(68, 68, 68)',
       Vermilion:'rgb(255, 56, 17)',
+      CharcoalBlack : 'rgb(21, 21, 21)',
+      DarkSilver : 'rgb(115, 115, 115)',
 
       },
     },
