@@ -13,6 +13,7 @@ export default {
       Vermilion:'rgb(255, 56, 17)',
       CharcoalBlack : 'rgb(21, 21, 21)',
       DarkSilver : 'rgb(115, 115, 115)',
+      LightGary:'rgb(232, 232, 232)',
 
       },
     },

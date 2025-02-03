@@ -1,4 +1,5 @@
 import Heading from "@/components/Heading/Heading";
+import Services from "@/components/Services/Services";
 
 
 export default function Home() {
@@ -11,6 +12,9 @@ export default function Home() {
    <>
    <section>
      <Heading title={services.title} subTitle={services.subTitle} description={services.description}></Heading>
+   </section>
+   <section>
+    <Services></Services>
    </section>
    </>
   );
